@@ -14,7 +14,15 @@ function setup() {
   //logic variables
   //In first line: Circle X "+2" is the Speed of the object and can be changed
  circleX=circleX + 0.5;
+  }
 
-
+  ellipse (100, 100, 350, 140)
+var var1={
+    x:50,      
+    y:100,
+    z:50,
+    a:120,
+    b:300,
+    c:450   
 
   }
