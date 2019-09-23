@@ -2,6 +2,8 @@
 
 Designer Statement
 
+[Wassily Kandinsky](https://gmanski504.github.io/Jackson_Gkar_ART2210/Jackson_Gkar_ART2210_Self-portrait_Fall2019/Jackson_Gkar_ART2210_Self-portrait_Fall2019/JackSept162019-1.html)
+
 Artist: Wassily Kandinsky (December, 4, 1866 - Dec 13, 1944)
 
 To whom may concern:
