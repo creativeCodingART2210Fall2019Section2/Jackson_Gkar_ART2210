@@ -16,6 +16,6 @@ Kandinsky is one of the pioneers of a particular current craftsmanship style tha
 
 
 
-1 ![](https://github.com/Gmanski504/Jackson_Gkar_ART2210/raw/master/Jackson_Gkar_ART2210_Self-portrait_Fall2019/Jackson_Gkar_ART2210_Self-portrait_Fall2019/Img/vasilykandinsky.jpg)
+1 ![](https://github.com/Gmanski504/Jackson_Gkar_ART2210/raw/master/Jackson_Gkar_ART2210_Self-portrait_Fall2019/JackSept16-2019-1/Img/vasilykandinsky.jpg)
 
 2 ![](https://github.com/Gmanski504/Jackson_Gkar_ART2210/blob/master/Jackson_Gkar_ART2210_Self-portrait_Fall2019/Jackson_Gkar_ART2210_Self-portrait_Fall2019/Img/wassilykandinskyportrait.jpg)
