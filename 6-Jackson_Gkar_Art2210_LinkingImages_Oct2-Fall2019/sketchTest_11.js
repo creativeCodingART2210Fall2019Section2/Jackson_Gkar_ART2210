@@ -1,10 +1,3 @@
-let vasilykandinsky;
-
-function preload(){
-    img=loadImage("https://github.com/Gmanski504/Jackson_Gkar_ART2210/raw/master/3-Jackson_Gkar_ART2210_Self-portrait_Sep23_Fall2019//Img/vasilykandinsky.jpg");
-    
-}
-
 function setup() {
   createCanvas(windowWidth,windowHeight);
 }
