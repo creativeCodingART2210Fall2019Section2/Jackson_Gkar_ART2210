@@ -1,7 +1,7 @@
 var img;
 
 function preload(){
-    img=loadImage("https://github.com/Gmanski504/Jackson_Gkar_ART2210/raw/master/3-Jackson_Gkar_ART2210_Self-portrait_Sep23_Fall2019/Img/vasilykandinsky.jpg");
+    img=loadImage("https://github.com/Gmanski504/Jackson_Gkar_ART2210/raw/master/3-Jackson_Gkar_ART2210_Self-portrait_Sep23_Fall2019//Img/vasilykandinsky.jpg");
     
 }
 
