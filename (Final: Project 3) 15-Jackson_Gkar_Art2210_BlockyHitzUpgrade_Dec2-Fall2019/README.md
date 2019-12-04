@@ -1,7 +1,7 @@
 
 # Jackson_Gkar_ART2210
 
-CLick this link: [BlockyHitzUpgrade](https://gmanski504.github.io/Jackson_Gkar_ART2210/Final/Project3)15-Jackson_Gkar_Art2210_BlockyHitzUpgrade_Dec2-Fall2019/index.html)
+CLick this link: [BlockyHitzUpgrade](https://gmanski504.github.io/Jackson_Gkar_ART2210/Final/Project3/15-Jackson_Gkar_Art2210_BlockyHitzUpgrade_Dec2-Fall2019/index.html)
 
 G’kar L. Jackson
 Final Design Statement
